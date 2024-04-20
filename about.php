@@ -8,11 +8,12 @@ require_once 'header.php';
   <section>
     <h2>Our Story</h2>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna
-      sit amet est tristique elementum. Vestibulum ante ipsum primis in
-      faucibus orci luctus et ultrices posuere cubilia Curae; Proin
-      tristique tortor sit amet ex eleifend, sed vestibulum sapien congue.
-      Nulla ut velit in odio ultricies sodales. Duis id consectetur risus.
+      Hello! We are a group from the CWU-Des Moines Computer Science cohort 
+      and we are creating a Self-Placement Exam for prospective CS students.
+      We believe students should feel well prepared before enrolling in their 
+      introductory Computer Science class. This will provide a solution for 
+      students to see where they stand, and for advisors to be more 
+      well informed on their new CS advisees. 
     </p>
   </section>
 
